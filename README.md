@@ -12,7 +12,7 @@ Se construyó una arquitectura distribuida capaz de ingerir eventos generados po
 
 ## 🗺️ Arquitectura General
 
-![Arquitectura del sistema](/home/nicolas/Data/arquitectura.png)
+![Arquitectura del sistema](/home/nicolas/IdeaProjects/data-engineering/Documentacion/arquitectura.png)
 
 ---
 
